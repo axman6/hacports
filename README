@@ -1,0 +1,3 @@
+Hacports is a version of Macports written in haskell intended to eventually replace the current TCL version.
+
+Its goals are to not only to replace it, but produce a better architcture, where things like concurrent downloads and building are handled safely, by negotiation with a central Hacports server.
